@@ -36,7 +36,7 @@ Python Libraries (for ISeeWhereYouAreToo.py):
 
 
 
-- GeoLite2 City Database (for ISeeWhereYouAreToo.py):
+GeoLite2 City Database (for ISeeWhereYouAreToo.py):
 
 
 
@@ -50,11 +50,11 @@ Python Libraries (for ISeeWhereYouAreToo.py):
 
 
 
-- `cymru-asnmap.py`: A Python script that queries ASN data for extracted IPs (required for FullIseeYou.sh and IseeYou.sh).
+`cymru-asnmap.py`: A Python script that queries ASN data for extracted IPs (required for FullIseeYou.sh and IseeYou.sh).
 
 
 
-- `asn_mapper.py`: A Python script that maps ASNs to organization names using a JSONL file (required for FullIseeYou.sh).
+`asn_mapper.py`: A Python script that maps ASNs to organization names using a JSONL file (required for FullIseeYou.sh).
 
 > Ensure all dependencies are installed, and the required scripts (cymru-asnmap.py, asn_mapper.py, and ISeeWhereYouAreToo.py) and database file are in the same directory as the Bash scripts.
 
