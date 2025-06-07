@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains two Bash scripts, FullIseeYou.sh and IseeYou.sh, which utilize strace to trace system calls and extract IP addresses from network activities. These scripts map the extracted IPs to Autonomous System Numbers (ASNs), and in the case of FullIseeYou.sh, further map ASNs to their associated organizations. Additionally, a Python script, ISeeWhereYouAreToo.py, is included to perform ASN lookup and geolocation (country and state/region) for a given IP address.
+This repository contains three Bash scripts, FullIseeYou.sh and IseeYou.sh, which utilize strace to trace system calls and extract IP addresses from network activities. These scripts map the extracted IPs to Autonomous System Numbers (ASNs), and in the case of FullIseeYou.sh, further map ASNs to their associated organizations. Additionally, a Python script, ISeeWhereYouAreToo.py, is included to perform ASN lookup and geolocation (country and state/region) for a given IP address.
 
 ## Prerequisites
 
